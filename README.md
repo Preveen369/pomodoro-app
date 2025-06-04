@@ -6,7 +6,7 @@
 ![Language](https://img.shields.io/badge/Language-JavaScript-yellow.svg)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
-**Pomodoro-App** is a beautifully designed productivity application that integrates a to-do list with the Pomodoro time-management technique. Built using React, JavaScript, and Tailwind CSS, it offers a seamless user experience with features like task management, a customizable timer, and a progress dashboard. The app uses LocalStorage for data persistence, supports multiple themes, and can be hosted on Firebase Hosting for scalable deployment.
+**Pomodoro-App** is a beautifully designed productivity application that integrates a to-do list with the Pomodoro time-management technique. Built using React, JavaScript, and Tailwind CSS, it offers a seamless user experience with features like task management, a customizable timer, and a progress dashboard. The app uses LocalStorage for data persistence, supports multiple themes, hosted on Firebase Hosting for scalable deployment.
 
 ---
 
