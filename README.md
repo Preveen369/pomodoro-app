@@ -8,6 +8,8 @@
 
 **Pomodoro-App** is a beautifully designed productivity application that integrates a to-do list with the Pomodoro time-management technique. Built using React, JavaScript, and Tailwind CSS, it offers a seamless user experience with features like task management, a customizable timer, and a progress dashboard. The app uses LocalStorage for data persistence, supports multiple themes, hosted on Firebase Hosting for scalable deployment.
 
+🔗 **Project Demo**: <https://pomodoro-app-7b05a.firebaseapp.com/>
+
 ---
 
 ## 🚀 Features
@@ -121,7 +123,7 @@ pomodoro-app/
    - Initialize Firebase: `firebase init`
    - Deploy: `firebase deploy`
 
-    🌐 Access your app live at: https://pomodoro-app-7b05a.firebaseapp.com/
+    🌐 Access your app live at: <https://pomodoro-app-7b05a.firebaseapp.com/>
 ---
 
 ## 🤝 Contributing
