@@ -121,7 +121,7 @@ pomodoro-app/
 5. **(Optional) Deploy with Firebase**
    - Initialize Firebase: `firebase init`
    - Deploy: `firebase deploy`
-
+    🌐 Access your app live at: https://pomodoro-app-7b05a.firebaseapp.com/
 ---
 
 ## 🤝 Contributing
