@@ -1,7 +1,8 @@
 # ⏰ Pomodoro-App – A Productivity Web App
 
 ![Platform](https://img.shields.io/badge/Platform-Web-blue.svg)
-![Tech](https://img.shields.io/badge/Frontend-React%20%7C%20Tailwind%20CSS-orange.svg)
+![Tech](https://img.shields.io/badge/Frontend-React-orange.svg)
+![Tech](https://img.shields.io/badge/UI-Tailwind%20CSS-emerald.svg)
 ![Language](https://img.shields.io/badge/Language-JavaScript-yellow.svg)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
