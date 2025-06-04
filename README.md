@@ -60,7 +60,6 @@
 
 ```
 pomodoro-app/
-
     ├── src/
     │   ├── components/         # UI components
     │   │   ├── Dashboard/      # Progress dashboard components
