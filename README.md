@@ -149,13 +149,14 @@ git push origin feature-name
 ---
 
 ## 📧 Contact
-
 For queries or suggestions:
-
-- 📩 Email: yourusername@example.com  
-- 🌐 LinkedIn: www.linkedin.com/in/yourusername/
+- 📩 Email: [spreveen123@gmail.com](mailto:spreveen123@gmail.com)
+- 🌐 LinkedIn: [www.linkedin.com/in/preveen-s-17250529b/](https://www.linkedin.com/in/preveen-s-17250529b/)
 
 ---
+
+## 🌟 Show Your Support
+If you like this project, please consider giving it a ⭐ on GitHub!
 
 ## 🌟 Show Your Support
 
