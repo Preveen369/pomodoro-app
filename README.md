@@ -158,6 +158,3 @@ For queries or suggestions:
 ## 🌟 Show Your Support
 If you like this project, please consider giving it a ⭐ on GitHub!
 
-## 🌟 Show Your Support
-
-If you like this project, please consider giving it a ⭐ on GitHub!
